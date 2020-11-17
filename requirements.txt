@@ -6,3 +6,4 @@ gym==0.17.3
 scikit-image==0.17.2
 scikit-learn==0.23.2
 scipy==1.5.4
+Keras==2.4.3
